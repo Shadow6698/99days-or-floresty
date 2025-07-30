@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet('https://raw.githubusercontent.com/Snxd
 
 -- Criar a janela principal
 local Window = OrionLib:MakeWindow({
-    Name = "Cartola Hub v3",
+    Name = "99 dias na floresta [By carol]",
     HidePremium = false,
     SaveConfig = true,
     ConfigFolder = "Config"
@@ -24,7 +24,7 @@ FlorestaTab:AddButton({
     end
 })
 
--- Script 2 - Kedd063
+-- Script 2 - Kdml Scripts (corrigido)
 FlorestaTab:AddButton({
     Name = "Kdml Scripts",
     Callback = function()
